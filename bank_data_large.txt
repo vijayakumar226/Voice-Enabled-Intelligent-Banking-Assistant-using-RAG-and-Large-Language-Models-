@@ -1,0 +1,301 @@
+ABC Bank savings account minimum balance is ₹2,000.
+Minimum balance required for savings account is ₹2,000.
+To avoid charges, keep at least ₹2,000 in savings account.
+Savings account interest rate is around 3.00% per annum.
+Current account minimum balance is ₹5,000.
+For current account, maintain ₹5,000 minimum balance.
+Home loan interest rate starts from 8.50%.
+Car loan interest rate starts from 9.20%.
+Vehicle loan interest is about 9.20%.
+Gold loan interest rate starts from 10.50%.
+Personal loan interest rate starts from 12.75%.
+Education loan interest rate starts from 9.75%.
+Fixed deposit (FD) interest rate is up to 7.10% depending on tenure.
+Recurring deposit (RD) interest rate is up to 6.90% depending on tenure.
+UPI transaction limit per day is ₹100,000.
+ATM cash withdrawal limit per day is ₹20,000.
+IMPS transfer limit is ₹200,000.
+NEFT transfer limit is ₹500,000.
+RTGS minimum transfer amount is ₹200,000.
+Customer care number is 1800-123-456.
+Contact ABC Bank support at 1800-123-456.
+Support email is support@abcbank.in.
+FAQ: Personal loan interest rate starts from 12.75%.
+Info: Fixed deposit (FD) interest rate is up to 7.10% depending on tenure.
+Usually: To avoid charges, keep at least ₹2,000 in savings account.
+For customers: Savings account interest rate is around 3.00% per annum.
+Info: RTGS minimum transfer amount is ₹200,000.
+Details: IMPS transfer limit is ₹200,000.
+Note: Minimum balance required for savings account is ₹2,000.
+As per policy: Recurring deposit (RD) interest rate is up to 6.90% depending on tenure.
+Details: To avoid charges, keep at least ₹2,000 in savings account.
+Info: Recurring deposit (RD) interest rate is up to 6.90% depending on tenure.
+Note: RTGS minimum transfer amount is ₹200,000.
+Quick help: Car loan interest rate starts from 9.20%.
+Quick help: Minimum balance required for savings account is ₹2,000.
+As per policy: RTGS minimum transfer amount is ₹200,000.
+Details: Minimum balance required for savings account is ₹2,000.
+Usually: Minimum balance required for savings account is ₹2,000.
+Answer: Current account minimum balance is ₹5,000.
+FAQ: Recurring deposit (RD) interest rate is up to 6.90% depending on tenure.
+Note: NEFT transfer limit is ₹500,000.
+Answer: RTGS minimum transfer amount is ₹200,000.
+FAQ: NEFT transfer limit is ₹500,000.
+Quick help: Savings account interest rate is around 3.00% per annum.
+Details: RTGS minimum transfer amount is ₹200,000.
+Note: Education loan interest rate starts from 9.75%.
+Details: Customer care number is 1800-123-456.
+Usually: ATM cash withdrawal limit per day is ₹20,000.
+For customers: Recurring deposit (RD) interest rate is up to 6.90% depending on tenure.
+Quick help: UPI transaction limit per day is ₹100,000.
+For customers: UPI transaction limit per day is ₹100,000.
+Details: Gold loan interest rate starts from 10.50%.
+Details: For current account, maintain ₹5,000 minimum balance.
+Quick help: To avoid charges, keep at least ₹2,000 in savings account.
+Usually: Gold loan interest rate starts from 10.50%.
+For customers: ATM cash withdrawal limit per day is ₹20,000.
+Answer: UPI transaction limit per day is ₹100,000.
+Note: Customer care number is 1800-123-456.
+Usually: Savings account interest rate is around 3.00% per annum.
+As per policy: ATM cash withdrawal limit per day is ₹20,000.
+Quick help: NEFT transfer limit is ₹500,000.
+For customers: Personal loan interest rate starts from 12.75%.
+Quick help: Education loan interest rate starts from 9.75%.
+Quick help: ATM cash withdrawal limit per day is ₹20,000.
+Note: UPI transaction limit per day is ₹100,000.
+Answer: To avoid charges, keep at least ₹2,000 in savings account.
+Note: ATM cash withdrawal limit per day is ₹20,000.
+Answer: Minimum balance required for savings account is ₹2,000.
+Quick help: Contact ABC Bank support at 1800-123-456.
+In general: Support email is support@abcbank.in.
+As per policy: Gold loan interest rate starts from 10.50%.
+For customers: Support email is support@abcbank.in.
+In general: ABC Bank savings account minimum balance is ₹2,000.
+FAQ: Education loan interest rate starts from 9.75%.
+Info: ATM cash withdrawal limit per day is ₹20,000.
+Answer: Home loan interest rate starts from 8.50%.
+Details: Current account minimum balance is ₹5,000.
+As per policy: Fixed deposit (FD) interest rate is up to 7.10% depending on tenure.
+In general: For current account, maintain ₹5,000 minimum balance.
+Usually: Fixed deposit (FD) interest rate is up to 7.10% depending on tenure.
+FAQ: Vehicle loan interest is about 9.20%.
+Usually: Recurring deposit (RD) interest rate is up to 6.90% depending on tenure.
+As per policy: Vehicle loan interest is about 9.20%.
+As per policy: Education loan interest rate starts from 9.75%.
+FAQ: Car loan interest rate starts from 9.20%.
+FAQ: To avoid charges, keep at least ₹2,000 in savings account.
+Details: Support email is support@abcbank.in.
+FAQ: RTGS minimum transfer amount is ₹200,000.
+Answer: Vehicle loan interest is about 9.20%.
+FAQ: ABC Bank savings account minimum balance is ₹2,000.
+For customers: RTGS minimum transfer amount is ₹200,000.
+Usually: Current account minimum balance is ₹5,000.
+Info: Customer care number is 1800-123-456.
+Usually: UPI transaction limit per day is ₹100,000.
+In general: Savings account interest rate is around 3.00% per annum.
+As per policy: Contact ABC Bank support at 1800-123-456.
+FAQ: UPI transaction limit per day is ₹100,000.
+Info: Savings account interest rate is around 3.00% per annum.
+Note: ABC Bank savings account minimum balance is ₹2,000.
+Quick help: Home loan interest rate starts from 8.50%.
+FAQ: Fixed deposit (FD) interest rate is up to 7.10% depending on tenure.
+Answer: Contact ABC Bank support at 1800-123-456.
+In general: Education loan interest rate starts from 9.75%.
+Note: Savings account interest rate is around 3.00% per annum.
+In general: ATM cash withdrawal limit per day is ₹20,000.
+Note: Gold loan interest rate starts from 10.50%.
+Note: Current account minimum balance is ₹5,000.
+Answer: Personal loan interest rate starts from 12.75%.
+FAQ: ATM cash withdrawal limit per day is ₹20,000.
+Info: IMPS transfer limit is ₹200,000.
+Usually: Home loan interest rate starts from 8.50%.
+Info: NEFT transfer limit is ₹500,000.
+Answer: IMPS transfer limit is ₹200,000.
+Note: Contact ABC Bank support at 1800-123-456.
+Usually: Vehicle loan interest is about 9.20%.
+Details: Education loan interest rate starts from 9.75%.
+Usually: NEFT transfer limit is ₹500,000.
+For customers: IMPS transfer limit is ₹200,000.
+Details: Contact ABC Bank support at 1800-123-456.
+As per policy: Car loan interest rate starts from 9.20%.
+Details: Car loan interest rate starts from 9.20%.
+In general: IMPS transfer limit is ₹200,000.
+Info: Education loan interest rate starts from 9.75%.
+Answer: ABC Bank savings account minimum balance is ₹2,000.
+Answer: ATM cash withdrawal limit per day is ₹20,000.
+For customers: Education loan interest rate starts from 9.75%.
+Details: Savings account interest rate is around 3.00% per annum.
+Details: ATM cash withdrawal limit per day is ₹20,000.
+Details: Personal loan interest rate starts from 12.75%.
+Note: Support email is support@abcbank.in.
+Details: Fixed deposit (FD) interest rate is up to 7.10% depending on tenure.
+As per policy: To avoid charges, keep at least ₹2,000 in savings account.
+As per policy: UPI transaction limit per day is ₹100,000.
+FAQ: For current account, maintain ₹5,000 minimum balance.
+In general: RTGS minimum transfer amount is ₹200,000.
+FAQ: Contact ABC Bank support at 1800-123-456.
+Quick help: Customer care number is 1800-123-456.
+Info: ABC Bank savings account minimum balance is ₹2,000.
+FAQ: IMPS transfer limit is ₹200,000.
+Details: Recurring deposit (RD) interest rate is up to 6.90% depending on tenure.
+Info: Home loan interest rate starts from 8.50%.
+Details: Vehicle loan interest is about 9.20%.
+As per policy: NEFT transfer limit is ₹500,000.
+Info: Current account minimum balance is ₹5,000.
+Quick help: Support email is support@abcbank.in.
+As per policy: IMPS transfer limit is ₹200,000.
+Usually: IMPS transfer limit is ₹200,000.
+Quick help: For current account, maintain ₹5,000 minimum balance.
+For customers: Minimum balance required for savings account is ₹2,000.
+Usually: Support email is support@abcbank.in.
+Info: Vehicle loan interest is about 9.20%.
+Usually: Customer care number is 1800-123-456.
+In general: NEFT transfer limit is ₹500,000.
+Details: NEFT transfer limit is ₹500,000.
+Note: Recurring deposit (RD) interest rate is up to 6.90% depending on tenure.
+In general: Fixed deposit (FD) interest rate is up to 7.10% depending on tenure.
+Note: Personal loan interest rate starts from 12.75%.
+FAQ: Savings account interest rate is around 3.00% per annum.
+For customers: Contact ABC Bank support at 1800-123-456.
+In general: Current account minimum balance is ₹5,000.
+Note: Car loan interest rate starts from 9.20%.
+As per policy: For current account, maintain ₹5,000 minimum balance.
+As per policy: Personal loan interest rate starts from 12.75%.
+For customers: Home loan interest rate starts from 8.50%.
+Usually: Personal loan interest rate starts from 12.75%.
+In general: UPI transaction limit per day is ₹100,000.
+As per policy: ABC Bank savings account minimum balance is ₹2,000.
+Answer: Customer care number is 1800-123-456.
+Note: IMPS transfer limit is ₹200,000.
+FAQ: Minimum balance required for savings account is ₹2,000.
+Answer: Recurring deposit (RD) interest rate is up to 6.90% depending on tenure.
+Note: Vehicle loan interest is about 9.20%.
+For customers: ABC Bank savings account minimum balance is ₹2,000.
+Quick help: Vehicle loan interest is about 9.20%.
+Answer: Gold loan interest rate starts from 10.50%.
+In general: Gold loan interest rate starts from 10.50%.
+For customers: Vehicle loan interest is about 9.20%.
+Info: Minimum balance required for savings account is ₹2,000.
+Usually: ABC Bank savings account minimum balance is ₹2,000.
+In general: Car loan interest rate starts from 9.20%.
+As per policy: Savings account interest rate is around 3.00% per annum.
+Details: Home loan interest rate starts from 8.50%.
+For customers: Fixed deposit (FD) interest rate is up to 7.10% depending on tenure.
+As per policy: Support email is support@abcbank.in.
+Info: Gold loan interest rate starts from 10.50%.
+Answer: For current account, maintain ₹5,000 minimum balance.
+Info: UPI transaction limit per day is ₹100,000.
+Info: For current account, maintain ₹5,000 minimum balance.
+In general: To avoid charges, keep at least ₹2,000 in savings account.
+Usually: Car loan interest rate starts from 9.20%.
+As per policy: Current account minimum balance is ₹5,000.
+Quick help: Gold loan interest rate starts from 10.50%.
+Info: To avoid charges, keep at least ₹2,000 in savings account.
+Usually: Contact ABC Bank support at 1800-123-456.
+In general: Contact ABC Bank support at 1800-123-456.
+Answer: Support email is support@abcbank.in.
+For customers: Current account minimum balance is ₹5,000.
+In general: Home loan interest rate starts from 8.50%.
+Answer: Fixed deposit (FD) interest rate is up to 7.10% depending on tenure.
+Info: Personal loan interest rate starts from 12.75%.
+Note: Fixed deposit (FD) interest rate is up to 7.10% depending on tenure.
+Answer: Car loan interest rate starts from 9.20%.
+Note: Home loan interest rate starts from 8.50%.
+As per policy: Minimum balance required for savings account is ₹2,000.
+For customers: To avoid charges, keep at least ₹2,000 in savings account.
+For customers: Car loan interest rate starts from 9.20%.
+As per policy: Home loan interest rate starts from 8.50%.
+In general: Minimum balance required for savings account is ₹2,000.
+Details: UPI transaction limit per day is ₹100,000.
+FAQ: Current account minimum balance is ₹5,000.
+Quick help: IMPS transfer limit is ₹200,000.
+Info: Car loan interest rate starts from 9.20%.
+In general: Customer care number is 1800-123-456.
+FAQ: Customer care number is 1800-123-456.
+Usually: For current account, maintain ₹5,000 minimum balance.
+Usually: Education loan interest rate starts from 9.75%.
+Quick help: ABC Bank savings account minimum balance is ₹2,000.
+Details: ABC Bank savings account minimum balance is ₹2,000.
+Quick help: Current account minimum balance is ₹5,000.
+In general: Personal loan interest rate starts from 12.75%.
+Info: Contact ABC Bank support at 1800-123-456.
+For customers: NEFT transfer limit is ₹500,000.
+For customers: Customer care number is 1800-123-456.
+FAQ: Gold loan interest rate starts from 10.50%.
+Note: To avoid charges, keep at least ₹2,000 in savings account.
+As per policy: Customer care number is 1800-123-456.
+Info: Support email is support@abcbank.in.
+Answer: NEFT transfer limit is ₹500,000.
+FAQ: Home loan interest rate starts from 8.50%.
+For customers: For current account, maintain ₹5,000 minimum balance.
+Answer: Savings account interest rate is around 3.00% per annum.
+Answer: Education loan interest rate starts from 9.75%.
+Q: Tell me about how to open account. A: You can open an account through the mobile app or by visiting the nearest branch with KYC documents.
+Q: I want to know how to open account. A: You can open an account through the mobile app or by visiting the nearest branch with KYC documents.
+Q: How to do how to open account in ABC Bank? A: You can open an account through the mobile app or by visiting the nearest branch with KYC documents.
+Q: Can you explain how to open account? A: You can open an account through the mobile app or by visiting the nearest branch with KYC documents.
+Q: how to open account? A: You can open an account through the mobile app or by visiting the nearest branch with KYC documents.
+Q: Tell me about kyc documents. A: KYC documents include Aadhaar, PAN, and address proof. Passport/Voter ID can also be used.
+Q: How to do kyc documents in ABC Bank? A: KYC documents include Aadhaar, PAN, and address proof. Passport/Voter ID can also be used.
+Q: I want to know kyc documents. A: KYC documents include Aadhaar, PAN, and address proof. Passport/Voter ID can also be used.
+Q: kyc documents? A: KYC documents include Aadhaar, PAN, and address proof. Passport/Voter ID can also be used.
+Q: Can you explain kyc documents? A: KYC documents include Aadhaar, PAN, and address proof. Passport/Voter ID can also be used.
+Q: Can you explain debit card block? A: To block your debit card, use the mobile app or call customer care immediately.
+Q: I want to know debit card block. A: To block your debit card, use the mobile app or call customer care immediately.
+Q: How to do debit card block in ABC Bank? A: To block your debit card, use the mobile app or call customer care immediately.
+Q: Tell me about debit card block. A: To block your debit card, use the mobile app or call customer care immediately.
+Q: debit card block? A: To block your debit card, use the mobile app or call customer care immediately.
+Q: Tell me about net banking registration. A: Register net banking using your account number, registered mobile number, and OTP.
+Q: Can you explain net banking registration? A: Register net banking using your account number, registered mobile number, and OTP.
+Q: net banking registration? A: Register net banking using your account number, registered mobile number, and OTP.
+Q: How to do net banking registration in ABC Bank? A: Register net banking using your account number, registered mobile number, and OTP.
+Q: How to do upi pin reset in ABC Bank? A: You can reset UPI PIN in your UPI app using debit card details and OTP.
+Q: Can you explain upi pin reset? A: You can reset UPI PIN in your UPI app using debit card details and OTP.
+Q: I want to know upi pin reset. A: You can reset UPI PIN in your UPI app using debit card details and OTP.
+Q: upi pin reset? A: You can reset UPI PIN in your UPI app using debit card details and OTP.
+Q: Tell me about upi pin reset. A: You can reset UPI PIN in your UPI app using debit card details and OTP.
+Q: I want to know forgot atm pin. A: If you forgot ATM PIN, generate a new PIN from the app or ATM PIN services.
+Q: How to do forgot atm pin in ABC Bank? A: If you forgot ATM PIN, generate a new PIN from the app or ATM PIN services.
+Q: Tell me about forgot atm pin. A: If you forgot ATM PIN, generate a new PIN from the app or ATM PIN services.
+Q: Can you explain forgot atm pin? A: If you forgot ATM PIN, generate a new PIN from the app or ATM PIN services.
+Q: forgot atm pin? A: If you forgot ATM PIN, generate a new PIN from the app or ATM PIN services.
+Q: How to do close account in ABC Bank? A: To close an account, visit the branch with ID proof and submit closure request.
+Q: close account? A: To close an account, visit the branch with ID proof and submit closure request.
+Q: Tell me about close account. A: To close an account, visit the branch with ID proof and submit closure request.
+Q: Can you explain close account? A: To close an account, visit the branch with ID proof and submit closure request.
+Q: I want to know close account. A: To close an account, visit the branch with ID proof and submit closure request.
+Q: cheque book? A: Cheque book request is available in the app under Services → Cheque Book.
+Q: Can you explain cheque book? A: Cheque book request is available in the app under Services → Cheque Book.
+Q: How to do cheque book in ABC Bank? A: Cheque book request is available in the app under Services → Cheque Book.
+Q: I want to know cheque book. A: Cheque book request is available in the app under Services → Cheque Book.
+Q: Tell me about cheque book. A: Cheque book request is available in the app under Services → Cheque Book.
+Q: Can you explain stop cheque? A: Stop cheque can be done via app or branch by providing cheque number and account details.
+Q: I want to know stop cheque. A: Stop cheque can be done via app or branch by providing cheque number and account details.
+Q: Tell me about stop cheque. A: Stop cheque can be done via app or branch by providing cheque number and account details.
+Q: stop cheque? A: Stop cheque can be done via app or branch by providing cheque number and account details.
+Q: How to do stop cheque in ABC Bank? A: Stop cheque can be done via app or branch by providing cheque number and account details.
+Q: Tell me about loan eligibility. A: Loan eligibility depends on income, credit score, age, and repayment capacity.
+Q: loan eligibility? A: Loan eligibility depends on income, credit score, age, and repayment capacity.
+Q: How to do loan eligibility in ABC Bank? A: Loan eligibility depends on income, credit score, age, and repayment capacity.
+Q: Can you explain loan eligibility? A: Loan eligibility depends on income, credit score, age, and repayment capacity.
+Q: I want to know loan eligibility. A: Loan eligibility depends on income, credit score, age, and repayment capacity.
+Q: I want to know credit score. A: A higher credit score improves loan approval chances and can reduce interest rate.
+Q: How to do credit score in ABC Bank? A: A higher credit score improves loan approval chances and can reduce interest rate.
+Q: Can you explain credit score? A: A higher credit score improves loan approval chances and can reduce interest rate.
+Q: Tell me about credit score. A: A higher credit score improves loan approval chances and can reduce interest rate.
+Q: credit score? A: A higher credit score improves loan approval chances and can reduce interest rate.
+Q: Tell me about emi calculation. A: EMI depends on principal, interest rate, and tenure. Use an EMI calculator for exact value.
+Q: How to do emi calculation in ABC Bank? A: EMI depends on principal, interest rate, and tenure. Use an EMI calculator for exact value.
+Q: Can you explain emi calculation? A: EMI depends on principal, interest rate, and tenure. Use an EMI calculator for exact value.
+Q: emi calculation? A: EMI depends on principal, interest rate, and tenure. Use an EMI calculator for exact value.
+Q: I want to know emi calculation. A: EMI depends on principal, interest rate, and tenure. Use an EMI calculator for exact value.
+Q: Can you explain foreclosure charges? A: Foreclosure charges depend on loan type and terms. Check loan agreement for details.
+Q: I want to know foreclosure charges. A: Foreclosure charges depend on loan type and terms. Check loan agreement for details.
+Q: Tell me about foreclosure charges. A: Foreclosure charges depend on loan type and terms. Check loan agreement for details.
+Q: How to do foreclosure charges in ABC Bank? A: Foreclosure charges depend on loan type and terms. Check loan agreement for details.
+Q: foreclosure charges? A: Foreclosure charges depend on loan type and terms. Check loan agreement for details.
+Q: Can you explain branch timings? A: Branch timing is typically 9:30 AM to 4:00 PM on working days (may vary by location).
+Q: Tell me about branch timings. A: Branch timing is typically 9:30 AM to 4:00 PM on working days (may vary by location).
+Q: I want to know branch timings. A: Branch timing is typically 9:30 AM to 4:00 PM on working days (may vary by location).
+Q: branch timings? A: Branch timing is typically 9:30 AM to 4:00 PM on working days (may vary by location).
+Q: How to do branch timings in ABC Bank? A: Branch timing is typically 9:30 AM to 4:00 PM on working days (may vary by location).
